@@ -1,0 +1,5 @@
+npx create-react-app <proyect-name>
+
+cd briareus
+
+npm start

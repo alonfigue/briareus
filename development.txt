@@ -1,5 +1,16 @@
+we'll create a react app
+
 npx create-react-app <proyect-name>
+
+--------------------------------------------------
+we'll use a css framework called bootstrap
+
+npm install bootstrap
+
+------------------------------------------------
 
 cd briareus
 
 npm start
+
+npm install bootstrap
